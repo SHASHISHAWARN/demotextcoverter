@@ -1,0 +1,32 @@
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.box
+{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+
+}
+.textarea{
+ width:915px;
+ height: 300px;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+  margin:5px;
+ 
+}
+.button{
+  height:55px;
+  width:140px;
+  margin:3px;
+  cursor: pointer;
+  box-shadow: 5px 2px rgb(90, 105, 90);
+}
